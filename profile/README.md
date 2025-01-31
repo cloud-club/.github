@@ -8,11 +8,11 @@
   <p>Cloud-native 기술과 vendor-neutral 인프라를 함께 배우고, 경험하고, 성장하는 IT 연합 동아리</p>
   <!-- 깃허브 팔로워 -->
   <a href="https://github.com/cloud-club">
-    <img src="https://img.shields.io/github/followers/cloud-club?style=social">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/cloud-club?style=social">
   </a>
   <!-- 깃허브 views -->
   <a href="https://github.com/cloud-club">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcloud-club&count_bg=%237A7A7A&title_bg=%232188F3&icon=icloud.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/>
+    <img alt="GitHub Views" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcloud-club&count_bg=%237A7A7A&title_bg=%232188F3&icon=icloud.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/>
   </a>
 </div>
 <br>
@@ -27,7 +27,7 @@
 **🤖 MLOps**: 머신러닝 모델의 배포부터 관리까지 자동화하는 기술들을 배우고 적용해요.  
 **🔭 Monitoring**: 시스템 상태와 성능을 모니터링하고 장애를 빠르게 감지하는 기술들을 공부해요.  
 
-## 🌎 Cloud Club는 왜 vendor-neutral을 지향할까요?
+## 🌎 Cloud Club은 왜 vendor-neutral을 지향할까요?
 
 CNCF에 대해 알고 계신가요?
 CNCF는 클라우드 네이티브 생태계를 이끌어가는 조직으로, 다음과 같은 슬로건을 내걸고 있어요.
@@ -45,6 +45,7 @@ Cloud Club은 위 슬로건에서 **vendor-neutral**이라는 토픽에 초점�
 **😎 TF:** OB 클둥이와 YB 클둥이가 함께 공부하거나 취미 활동을 해요.
 
 ## 💡 Cloud Club을 만나려면?
+
 **⛅ HomePage**: Cloud Club의 활동 내역, 운영 계획, 리크루팅 정보 등을 확인할 수 있어요.  
 **👔 LinkedIn**: Cloud Club만의 네트워킹과 인사이트를 공유받을 수 있어요.  
 **📺 YouTube**: 클클콘과 스터디 발표 등 다양한 콘텐츠를 영상으로 볼 수 있어요.  
@@ -56,23 +57,23 @@ Cloud Club은 위 슬로건에서 **vendor-neutral**이라는 토픽에 초점�
   <p>☁️ <strong>다양한 온라인 채널을 통해, 지금 바로 Cloud Club을 만나보세요!</strong> 🚀</p>
   <!-- 홈페이지 -->
   <a href="https://www.cloudclub.kr/">
-    <img src="https://img.shields.io/badge/link-7A7A7A?style=for-the-badge&label=HomePage&labelColor=2188F3"/>
+    <img alt="HomePage" src="https://img.shields.io/badge/link-7A7A7A?style=for-the-badge&label=HomePage&labelColor=2188F3"/>
   </a>
   <!-- 링크드인 -->
   <a href="https://www.linkedin.com/company/cloudclub-kr">
-    <img src="https://img.shields.io/badge/follow-7A7A7A?style=for-the-badge&logo=LinkedIn&logoColor=white&label=LinkedIn&labelColor=0077b5"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/follow-7A7A7A?style=for-the-badge&logo=LinkedIn&logoColor=white&label=LinkedIn&labelColor=0077b5"/>
   </a>
   <!-- 유튜브 -->
   <a href="https://www.youtube.com/@c1oudc1ub">
-    <img src="https://img.shields.io/badge/subscribe-7A7A7A?style=for-the-badge&logo=YouTube&logoColor=white&label=YouTube&labelColor=FF0000"/>
+    <img alt="YouTube" src="https://img.shields.io/badge/subscribe-7A7A7A?style=for-the-badge&logo=YouTube&logoColor=white&label=YouTube&labelColor=FF0000"/>
   </a>
   <!-- 인스타그램 -->
   <a href="https://www.instagram.com/cloudclub.kr">
-    <img src="https://img.shields.io/badge/follow-7A7A7A?style=for-the-badge&logo=Instagram&logoColor=white&label=Instagram&labelColor=FF0069"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/follow-7A7A7A?style=for-the-badge&logo=Instagram&logoColor=white&label=Instagram&labelColor=FF0069"/>
   </a>
   <!-- 미디움 -->
   <a href="https://medium.com/@cloudclub">
-    <img src="https://img.shields.io/badge/follow-7A7A7A?style=for-the-badge&logo=Medium&logoColor=white&label=Medium&labelColor=000000"/>
+    <img alt="Medium" src="https://img.shields.io/badge/follow-7A7A7A?style=for-the-badge&logo=Medium&logoColor=white&label=Medium&labelColor=000000"/>
   </a>
   <hr>
 </div>
