@@ -180,7 +180,8 @@ Resolves: #45
 
 ```
 
-> ⚠️ **주의**: 커밋 메시지는 항상 현재 시제로 부탁드립니다. "Added feature"가 아닌 "Add feature"로 작성해주시면 됩니다.
+> [!CAUTION]
+> 커밋 메시지는 항상 현재 시제로 부탁드립니다. "Added feature"가 아닌 "Add feature"로 작성해주시면 됩니다.
 
 ### c. PR(Pull Request) 규칙
 
