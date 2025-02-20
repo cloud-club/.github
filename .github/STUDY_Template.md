@@ -6,7 +6,19 @@
 
 ## 1. Introduction  
 
+> [!NOTE]
+> ### 스터디 소개
+> 안녕하세요! 클라우드 클럽 7기 클둥이 여러분!
+홈서버 프로젝트 스터디에 오신 것을 환영합니다! 
+저희 스터디는 클라우드 기술의 기반이 되는 네트워크와 인프라를
+실습을 통해 깊이 있게 학습하는 것을 목표로 합니다.
 
+
+
+---
+
+
+<br>
 
 
 
@@ -18,9 +30,10 @@
 
 -  격주 일요일 저녁 1회 (18:00~20:30) 서울 역삼 캠퍼스인근 스터디룸이나 카페에서 홈서버 모각코 프로젝트를 진행합니다.
 
--  최대 6명의 멤버를 모집합니다. **전공 무관**
+-  최대 6명의 멤버를 모집합니다. **전공 무관**  
 
 
+<br>
   
 
 ###  Who need this study?  
@@ -37,7 +50,10 @@
 
 - 도커, 컨테이너 개념을 포함하여 현대적인 홈 서버 구축에 필요한 기술들을 실습 위주로 역량을 키워나가고 싶은 분
 
+<br>
+
 ---  
+
 
 
 ## 2. 👽 Our Squad
@@ -59,6 +75,8 @@
   </tr>
 </table>
 
+<br>
+
 
 ## 3. ⛳ Curriculum (Season - 1)
 
@@ -74,7 +92,7 @@
 | Week 6  | 쿠버네티스 입문 | - 쿠버네티스 아키텍처 및 주요 컴포넌트 이해<br>- minikube 설치 및 기본 사용법 학습<br>- kubectl 명령어 실습 (get, describe, apply, delete)<br>- 간단한 파드(Pod) 생성 및 관리 | ❌           |
 | Week 7  | 쿠버네티스 클러스터 구축 | - 멀티노드 클러스터 아키텍처 설계<br>- kubeadm을 이용한 마스터 노드 초기화<br>- 워커 노드 추가 및 네트워크 플러그인 설정<br>- 기본 워크로드 배포 (Deployment, Service 생성) | ❌     | 
 | Week 8  | 프로젝트 1차 완성 및 리뷰 | - 구축한 홈 서버 환경 최적화 (리소스 할당, 성능 튜닝)<br>- Prometheus와 Grafana를 이용한 모니터링 시스템 구축<br>- 전체 시스템 보안 점검 및 취약점 개선<br>- 프로젝트 발표 및 피드백 세션 | ❌         |
-
+<br>
 
 ---
 
@@ -91,6 +109,8 @@
 | Week 14 | Envoy를 이용한 고급 트래픽 관리 | - 홈 서버 서비스에 대한 동적 라우팅 구성<br>- 속도 제한 및 서킷 브레이커 설정<br>- 접근 로그 구성 및 분석 | ❌           |
 | Week 15 | 통합 모니터링 및 로깅 시스템 구축 | - Prometheus와 Grafana를 이용한 메트릭 수집 및 시각화<br>- ELK 스택을 이용한 로그 수집 및 분석<br>- Istio와 Envoy 메트릭/로그 통합 | ❌     | 
 | Week 16 | 프로젝트 완성 및 성능 최적화 | - 전체 시스템 통합 테스트<br>- 성능 병목 지점 식별 및 최적화<br>- 보안 취약점 검사 및 보완 | ❌         |
+
+<br>
 
 ---
 
@@ -152,8 +172,9 @@ Plex 미디어 서버 도커 컨테이너가 자동으로 재시작되지 않는
 
 - docker-compose.yml 파일의 restart 정책을 'always'로 변경했음.
 
-
 ```
+
+<br>
 
 
 #### 커밋 타입
@@ -168,6 +189,8 @@ Plex 미디어 서버 도커 컨테이너가 자동으로 재시작되지 않는
 | test     | 테스트 코드, 리팩토링 테스트 코드 추가       |
 | chore    | 빌드 업무 수정, 패키지 매니저 수정           |
 
+<br>
+
 예시:
 ```
 feat(nginx): 리버스 프록시 설정 구현
@@ -179,6 +202,8 @@ feat(nginx): 리버스 프록시 설정 구현
 Resolves: #45
 
 ```
+
+<br>
 
 > [!CAUTION]
 > 커밋 메시지는 항상 현재 시제로 부탁드립니다. "Added feature"가 아닌 "Add feature"로 작성해주시면 됩니다.
@@ -257,6 +282,7 @@ Closes #45
 - error : hello world kukurubbingbbong~
 
 ```
+<br>
 
 > 📊 **이슈 관리 팁**: 
 > ```mermaid
@@ -273,6 +299,8 @@ Closes #45
 > ```
 
 
+<br>
+
 ## 5. Reference  
 
 다음은 홈서버 구축 관련 블로그 레퍼런스 5개입니다. 한번 읽어보시고, 더 좋은 추가할만한 자료가 있다면 PR을 통해 추가해주세요.
@@ -284,5 +312,6 @@ Closes #45
 | 해외 | How to get started building a Homelab server in 2025 | [Joe Karlsson](https://joekarlsson.com/2023/09/how-to-get-started-building-a-homelab-server-in-2024/) |
 | 국내 | [홈서버] 홈서버 만들기 | [코딩 배우기 ㅋㅋ;; - 티스토리](https://learningcodingreal.tistory.com/64) |
 | 국내 | [홈서버구축하기 1] 홈서버를 구축 한 이유 | [기록, 꾸준히 작성해보자](https://blog.ewq.kr/69) |
+| 국내 | 한국 홈서버 대장 윤태블로그 | [yureutae-log](https://yureutae-log.vercel.app/) |
 
 
