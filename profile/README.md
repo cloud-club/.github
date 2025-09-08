@@ -64,7 +64,7 @@ Cloud Club은 위 슬로건에서 **vendor-neutral**이라는 토픽에 초점�
     <img alt="LinkedIn" src="https://img.shields.io/badge/follow-7A7A7A?style=for-the-badge&logo=LinkedIn&logoColor=white&label=LinkedIn&labelColor=0077b5"/>
   </a>
   <!-- 유튜브 -->
-  <a href="https://www.youtube.com/@c1oudc1ub">
+  <a href="https://www.youtube.com/@cloudclub-kr">
     <img alt="YouTube" src="https://img.shields.io/badge/subscribe-7A7A7A?style=for-the-badge&logo=YouTube&logoColor=white&label=YouTube&labelColor=FF0000"/>
   </a>
   <!-- 인스타그램 -->
