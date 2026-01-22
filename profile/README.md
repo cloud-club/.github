@@ -15,14 +15,25 @@
     <img alt="GitHub Views" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcloud-club&count_bg=%237A7A7A&title_bg=%232188F3&icon=icloud.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/>
   </a>
 </div>
-<br>
+<br clear="all">
+
+<div align="center">
+  <a href="https://forms.gle/zPBCzyehWD591g926">
+    <img src="https://img.shields.io/badge/Cloud%20Club%209기%20신입%20모집%20중!-2188F3?style=for-the-badge&logo=icloud&logoColor=white" height="45" align="center">
+  </a>
+  <br>
+  <a href="https://forms.gle/zPBCzyehWD591g926">
+    <strong>👉 9기 지원하러 가기 (Click!) 👈</strong>
+  </a>
+  <hr>
+</div>
 
 ## 🚀 Cloud Club이란?
 
 **Cloud Club**은 클라우드 네이티브(**cloud-native**) 기술을 사랑하는 사람들이 모여, 벤더에 종속되지 않고(**vendor-neutral**) 다양한 인프라를 경험할 수 있는 **IT 연합 동아리**이자 **IT 커뮤니티**에요.
 
 **🌐 CNCF Landscape**: Kubernetes, Prometheus 등 클라우드 네이티브 기술을 포함한 다양한 오픈소스 기술들을 탐험해요.  
-**☁️ Cloud**: AWS, GCP, NCP 등 여러 클라우드 인프라 기술들을 경험해요.  
+**☁️ Cloud**: AWS, GCP, Azure, OCI, NCP 등 여러 클라우드 인프라 기술들을 경험해요.  
 **⚙️ DevOps**: 개발과 배포를 자동화하고 효율적으로 운영하는 기술들을 공부해요.  
 **🤖 MLOps**: 머신러닝 모델의 배포부터 관리까지 자동화하는 기술들을 배우고 적용해요.  
 **🔭 Monitoring**: 시스템 상태와 성능을 모니터링하고 장애를 빠르게 감지하는 기술들을 공부해요.  
